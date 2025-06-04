@@ -1,0 +1,16 @@
+.headerr{
+    background-color: #c91e1e;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    margin: -10px;
+}
+.pic{
+    text-align: center;
+}
+.footer{
+    color: rgb(0, 0, 0);
+    padding: 1rem;
+    text-align: center;
+    margin: -10px; 
+}
